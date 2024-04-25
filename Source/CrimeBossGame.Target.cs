@@ -31,6 +31,7 @@ public class CrimeBossGameTarget : TargetRules {
 			"Common_Data",
 			"Common_Save",
 			"Common_Utils",
+      "CrimeBoss",
 			"CrimeBossMeta",
 			"IGS_UIFramework",
 			"Payback",

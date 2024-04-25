@@ -156,3 +156,10 @@ obj/
 WindowsNoEditor/*
 Build/WindowsNoEditor/*
 Platforms/HoloLens/Config/HoloLensEngine.ini
+Binaries/Win64/tbb12.dll
+Binaries/Win64/OpenImageDenoise.dll
+Binaries/Win64/EOSSDK-Win64-Shipping.dll
+Binaries/Win64/CrimeBossGame.target
+Binaries/Win64/CrimeBossGame.lib
+Binaries/Win64/CrimeBossGame.exp
+Binaries/Win64/CrimeBossGame.exe
