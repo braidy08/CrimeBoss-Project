@@ -163,3 +163,7 @@ Binaries/Win64/CrimeBossGame.target
 Binaries/Win64/CrimeBossGame.lib
 Binaries/Win64/CrimeBossGame.exp
 Binaries/Win64/CrimeBossGame.exe
+/Plugins/Wwise
+/Content/WwiseAudio/GeneratedSoundData/SoundBanks/Virtual_Acoustics/Factory_Acoustic_Textures
+Content/WwiseAudio/GeneratedSoundData/SoundBanks/Virtual_Acoustics/Virtual_Acoustics_FOLDER.uasset
+/Content/WwiseAudio/GeneratedSoundData/SoundBanks/Game_Parameters/Factory_SoundSeed_Air_Game_Syncs
